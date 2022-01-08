@@ -84,6 +84,7 @@ p {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
+  padding-left: 0;
 }
 
 .btn {
