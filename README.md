@@ -15,19 +15,19 @@ To get a local copy up and running follow these simple example steps.
 # Pic
 
 - First page
-![](images/portfolio-1.png)
+- ![](images/portfolio-1.png)
 
 - Second page
-![](images/portfolio-2.png)
+- ![](images/portfolio-2.png)
 
 - Third page
-![](images/portfolio-3.png)
+- ![](images/portfolio-3.png)
 
 - Fourth page
-![](images/portfolio-4.png)
+- ![](images/portfolio-4.png)
 
 - AboutMe page
-![](images/about-me.png)
+- ![](images/about-me.png)
 
 ## Built With
 
