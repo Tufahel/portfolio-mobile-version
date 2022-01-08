@@ -11,6 +11,7 @@ ul {
 
 h2 {
   font-size: 32px;
+  color: #344563;
 }
 
 p {
@@ -41,6 +42,7 @@ p {
   line-height: 1.5;
   padding: 25px;
   background: #fafafa;
+  font-weight: 500;
 }
 
 .card__tag {
@@ -123,15 +125,23 @@ p {
   background-image: url("images/Base-about-my-self.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
+  margin: 0 auto;
+  max-width: 1000px;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 20px;
+  font-family: poppins, sans-serif;
+  padding: 20px;
 }
 
 .about__content {
   padding-left: 50px;
+  padding-right: 30px;
   padding-top: 20px;
   font-size: 15px;
   font-weight: 500;
   line-height: 1.5;
-  width: 700px;
+  color: #344563;
 }
 
 .container ul {
@@ -160,7 +170,7 @@ p {
   background-color: #f7f7f9;
   margin-bottom: 10px;
   padding: 10px 10px;
-  width: 700px;
+  width: auto;
   border-radius: 15px;
   font-size: 15px;
   font-weight: bold;
@@ -168,7 +178,7 @@ p {
 
 .languages p {
   margin-left: 20px;
-  font-weight: bold;
+  width: auto;
 }
 
 .skill__paragraph {
@@ -189,7 +199,7 @@ p {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 700px;
+  width: auto;
 }
 
 .skill__arrow i {
