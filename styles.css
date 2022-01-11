@@ -206,9 +206,22 @@ p {
   color: gray;
 }
 
+.contact__me__section {
+  background-color: #fff;
+  margin: 0 auto;
+  background-size: 100% 100%;
+  max-width: 1040px;
+}
+
 .contact__me {
   background-color: #6070ff;
-  background-image: url(images/contact\ form\ background\ shapes.svg);
+  background-image: url("images/contact-form-shapes-mobile.svg");
+  background-repeat: no-repeat;
+  border-top-left-radius: 100px;
+  background-position: 80px 10px;
+  background-size: 100% 100%;
+  max-width: 1000px;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -260,4 +273,11 @@ p {
   border-radius: 10px;
   outline: none;
   border: 1px solid #cfd8dc;
+}
+
+.btn2 {
+  margin-top: 22px;
+  float:left;
+  width: 140px;
+  height: 48px;
 }
