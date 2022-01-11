@@ -241,7 +241,7 @@ p {
 }
 
 .contact__me__text {
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -258,7 +258,7 @@ p {
 }
 
 .input {
-  color: #172B4D;
+  color: #172b4d;
   width: 327px;
   height: 48px;
   border-radius: 10px;
@@ -286,7 +286,7 @@ p {
 .btn2 {
   margin-top: 22px;
   margin-bottom: 45px;
-  float:left;
+  float: left;
   width: 140px;
   height: 48px;
   margin-left: 24px;
