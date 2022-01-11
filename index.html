@@ -281,8 +281,8 @@
         quidem aliquam? Voluptates eius vitae quas dolore dolor. Eos, ut fuga?
       </p>
       <form class="contact__me__form" action="https://formspree.io/f/mjvlknzp" method="post">
-        <input class="input" type="text" maxlength="30" placeholder="Name" />
-        <input class="input" type="email" placeholder="exemple@mail.com" />
+        <input class="input" type="text" maxlength="30" placeholder="Name" required/>
+        <input class="input" type="email" placeholder="exemple@mail.com" required/>
         <textarea
           class="text__area"
           name="message"
@@ -291,6 +291,7 @@
           rows="10"
           maxlength="500"
           placeholder="Write your message here ..."
+          required
         ></textarea>
         <button class="btn btn1" type="submit">Get in Touch</button>
       </form>
