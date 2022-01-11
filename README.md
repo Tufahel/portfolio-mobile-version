@@ -29,6 +29,9 @@ To get a local copy up and running follow these simple example steps.
 - AboutMe page
 - ![](images/about-me.png)
 
+- ContactMe page
+- ![](images/contact-me.png)
+
 ## Built With
 
 - HTML/CSS
