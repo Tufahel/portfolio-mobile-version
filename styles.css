@@ -116,7 +116,7 @@ p {
 }
 
 .btn1:hover {
-  background-color: #366df2 !important;
+  background-color: #366df2;
   color: white;
   border: 1px solid #366df2;
 }
@@ -219,7 +219,7 @@ p {
   background-repeat: no-repeat;
   border-top-left-radius: 100px;
   background-position: 80px 10px;
-  background-size: 100% 100%;
+  background-size: 100% 95%;
   max-width: 1000px;
   margin: 0 auto;
   display: flex;
@@ -236,7 +236,8 @@ p {
   line-height: 52px;
   font-style: normal;
   margin-top: 103px;
-  color: #ebebff;
+  margin-bottom: 0;
+  color: #fff;
 }
 
 .contact__me__text {
@@ -246,7 +247,7 @@ p {
   font-style: normal;
   text-align: center;
   line-height: 28px;
-  color: #efefef;
+  color: #efebef;
   margin-top: 12px;
   width: 327px;
 }
@@ -257,27 +258,40 @@ p {
 }
 
 .input {
-  color: rgb(10, 10, 10);
+  color: #172B4D;
   width: 327px;
   height: 48px;
   border-radius: 10px;
   outline: none;
   border: 1px solid #cfd8dc;
   margin-top: 20px;
+  padding-left: 16px;
+  margin-left: 24px;
+  margin-right: 24px;
 }
 
 .text__area {
   width: 327px;
   height: 170px;
   margin-top: 18px;
+  padding-left: 16px;
+  padding-top: 15px;
   border-radius: 10px;
   outline: none;
   border: 1px solid #cfd8dc;
+  margin-left: 24px;
+  margin-right: 24px;
 }
 
 .btn2 {
   margin-top: 22px;
+  margin-bottom: 45px;
   float:left;
   width: 140px;
   height: 48px;
+  margin-left: 24px;
+}
+
+.btn2:hover {
+  background-color: #7b83dd;
 }
