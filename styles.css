@@ -17,6 +17,71 @@ p {
   font-size: 15px;
 }
 
+.front-page-body {
+  font-family: sans-serif;
+  background-image: url("images/Header-bg@2x.png");
+  background-repeat: no-repeat;
+  background-size: 110% 105%;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.header-class {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 50px;
+}
+
+header a {
+  color: #6070ff;
+  text-decoration: none;
+}
+
+.hamburger-icon {
+  font-size: 40px;
+  color: gray;
+}
+
+.intro {
+  margin: 15% 10%;
+}
+
+.intro h1 {
+  font-size: 48px;
+  font-family: poppins, sans-serif;
+  color: #091e42;
+  width: 70%;
+  line-height: 60px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.37px;
+}
+
+.intro .intro-paragraph {
+  font-family: poppins, sans-serif;
+  color: #344563;
+  font-size: 20px;
+  padding: 20px 0;
+}
+
+.front-page-container ul {
+  display: flex;
+  width: 130px;
+  justify-content: space-between;
+  padding: 0;
+}
+
+.front-page-icon {
+  width: 20px;
+  margin-right: 10px;
+}
+
+.front-page-connect {
+  color: #7f8cff;
+  font-size: 16px;
+  padding-bottom: 20px;
+}
+
 .cards {
   margin: 0 auto;
   max-width: 1000px;
@@ -137,7 +202,6 @@ p {
 .about__content {
   padding-left: 50px;
   padding-right: 30px;
-  padding-top: 20px;
   font-size: 15px;
   font-weight: 500;
   line-height: 1.5;
