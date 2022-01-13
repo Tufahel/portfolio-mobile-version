@@ -5,6 +5,15 @@ body {
   margin: 0;
 }
 
+.parag_1 {
+  transition: color 500ms, font-size 500ms;
+}
+
+.parag_1:hover {
+  color: red;
+  font-size: medium;
+}
+
 .logo {
   transition: transform 900ms;
 }
