@@ -118,16 +118,6 @@ header a {
   display: flex;
 }
 
-.card__image {
-  transition: width 1s, height 1s, transform 1s;
-}
-
-.card__image:hover {
-  width: 200px;
-  height: 300px;
-  transform: rotate(180deg);
-}
-
 .tag {
   color: #344563;
   font-size: 15px;
