@@ -6,7 +6,7 @@ This is a portfolio work experienc section of Tufahel Ahmed only for mobile vers
 
 # Live page link
 
-- https://tufahel.github.io/portfolio-mobile-version/
+- [Live Page](https://tufahel.github.io/portfolio-mobile-version/)
 
 # Getting Started
 To get a local copy up and running follow these simple example steps.
@@ -47,5 +47,5 @@ To get a local copy up and running follow these simple example steps.
 
 👤 Author1
 
-- GitHub: @Tufahel
-- LinkedIn: Tufahel Ahmed
+- GitHub: [@Tufahel](https://github.com/Tufahel)
+- LinkedIn: [Tufahel Ahmed](https://bd.linkedin.com/in/tufahel-ahmed-972884203)
