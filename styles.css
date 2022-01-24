@@ -45,6 +45,7 @@ header a {
   top: 16px;
   right: 16px;
   border: none;
+  background: none;
   cursor: pointer;
 }
 
