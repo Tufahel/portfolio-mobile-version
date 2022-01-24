@@ -4,6 +4,7 @@ const hamburger = document.querySelector(".hamburger");
 const closeIcon = document.querySelector(".closeIcon");
 const menuIcon = document.querySelector(".menuIcon");
 
+closeIcon.style.display = "none";
 function toggleMenu() {
     if (menu.classList.contains("showMenu")) {
         menu.classList.remove("showMenu");
@@ -12,7 +13,8 @@ function toggleMenu() {
     } else {
         menu.classList.add("showMenu");
         closeIcon.style.display = "block";
-        closeIcon.style.color = "black";
+        closeIcon.style.color = "white";
+        hamburger.style.background = "none";
         menuIcon.style.display = "none";
     }
 }

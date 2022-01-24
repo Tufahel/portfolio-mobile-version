@@ -42,16 +42,14 @@ header a {
 .hamburger {
   position: fixed;
   z-index: 100;
-  top: 1rem;
-  right: 1rem;
-  border: whitesmoke solid 1px;
-  background: whitesmoke;
+  top: 16px;
+  right: 16px;
+  border: none;
   cursor: pointer;
 }
 
 .closeIcon {
   display: none;
-  color: whitesmoke;
 }
 
 .menu {
@@ -66,7 +64,7 @@ header a {
   background: #6070ff;
   opacity: 0.9;
   list-style: none;
-  padding: 4rem;
+  padding: 65px;
   margin: 0;
 }
 
