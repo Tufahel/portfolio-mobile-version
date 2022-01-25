@@ -2,7 +2,7 @@
 
 # Developers Portfolio of Tufahel Ahmed
 
-This is a portfolio work experienc section of Tufahel Ahmed only for mobile version. Tufahel Ahmed is coding scince 2017. He has coding experience on C,C++,Java,HTML,CSS,REACT and a little bit NodeJs. He has developed some websites for personal experience and use.
+This is a portfolio work experience section of Tufahel Ahmed only for mobile version. Tufahel Ahmed is coding scince 2017. He has coding experience on C,C++,Java,HTML,CSS,REACT and a little bit NodeJs. He has developed some websites for personal experience and use.
 
 # Live page link
 
